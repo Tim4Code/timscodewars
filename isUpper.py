@@ -1,4 +1,4 @@
-x = input('String: ')
+x = input('Enter string: ')
 if x.isupper():
     print('HOORAY! THE STRING IS IN UPPERCASE!')
 else:
